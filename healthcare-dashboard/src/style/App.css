@@ -40,3 +40,22 @@
 .read-the-docs {
   color: #888;
 }
+
+.app {
+  width: 100%;
+  display: flex;               /* Layout children side-by-side */
+  flex-direction: row;         /* Ensure horizontal layout */
+  gap: 6px;                   /* Space between columns */
+  background-color: #fff;
+  padding: 10px;
+  border-radius: 35px;
+}
+
+.left-column {
+  width: 18%;
+}
+
+.middle-column {
+  width: 64%;
+}
+

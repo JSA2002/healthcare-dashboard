@@ -1,0 +1,16 @@
+/* src/components/MainContent/MainContent.css */
+
+.main-content {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  padding: 13px 18px;
+  border-radius: 20px;
+  height: 100vh;
+  width: 510px;
+  margin-right: 5px;
+  margin-left: -31px;
+  overflow: hidden;
+}
+
+
