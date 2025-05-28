@@ -23,11 +23,11 @@ const Shedule = () => {
         <p className="day-label">On Thursday</p>
         <div className="schedule-events">
           <div className="event-card">
-            <h5>Health checkup complete <span classname="logo">🩺</span></h5>
+            <h5>Health checkup complete <span className="logo">🩺</span></h5>
             <p>11:00 AM</p>
           </div>
           <div className="event-card">
-            <h5>Ophthalmologist <span classname="logo">👁️</span></h5>
+            <h5>Ophthalmologist <span className="logo">👁️</span></h5>
             <p>14:00 PM</p>
           </div>
         </div>
@@ -37,11 +37,11 @@ const Shedule = () => {
         <p className="day-label">On Saturday</p>
         <div className="schedule-events">
           <div className="event-card event-card2 ">
-            <h5>Cardiologist <span classname="logo">❤️</span></h5>
+            <h5>Cardiologist <span className="logo">❤️</span></h5>
             <p>12:00 AM</p>
           </div>
           <div className="event-card event-card2 ">
-            <h5>Neurologist <span classname="logo">🧠</span></h5>
+            <h5>Neurologist <span className="logo">🧠</span></h5>
             <p>16:00 PM</p>
           </div>
         </div>
