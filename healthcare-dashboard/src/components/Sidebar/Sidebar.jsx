@@ -1,7 +1,7 @@
 // src/components/Sidebar/Sidebar.jsx
 import React from 'react';
 import './sidebar.css';
-import { navigationLinks } from '../../data/navigationLinks';
+import { navigationLinks } from '../Data/navigationLinks';
 
 export default function Sidebar() {
   return (
