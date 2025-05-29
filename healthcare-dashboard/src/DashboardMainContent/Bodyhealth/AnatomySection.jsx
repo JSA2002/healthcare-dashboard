@@ -1,7 +1,7 @@
 import React from 'react';
 import './AnatomySection.css';
 import anatomyImg from '../../assets/anatomy.png';
-import { healthData } from '../../data/healthData';
+import { healthData } from '../../Data/healthData';
 
 const AnatomySection = () => {
   return (
