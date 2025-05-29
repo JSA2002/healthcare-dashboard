@@ -1,5 +1,5 @@
 import React from 'react';
-import './Shedule.css';
+import './shedule.css';
 
 const Shedule = () => {
   return (
